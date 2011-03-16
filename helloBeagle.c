@@ -12,5 +12,8 @@ int main(int argc, char **argv)
   printf("This address (%p) is in our bss section\n", &bss_var);
   /* data section contains initializated data */
   printf("This address (%p) is in our data section\n", &data_var);
+
+  printf("another addition\n");
+
   return 0;
 }
