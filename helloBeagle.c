@@ -14,7 +14,6 @@ int main(int argc, char **argv)
   printf("This address (%p) is in our data section\n", &data_var);
 
   printf("Hi this is Mark A. Yoder\n");
-  printf("here is another change\n");
 
   return 0;
 }
