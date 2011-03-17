@@ -13,9 +13,11 @@ int main(int argc, char **argv)
   /* data section contains initializated data */
   printf("This address (%p) is in our data section\n", &data_var);
 
-  printf("another addition\n");
+  printf("\n");
   printf("Hi this is Mark A. Yoder\n");
   printf("Hi this is Stephen Mayhew\n");
+
+  printf("Ty Strayer\n");
 
   return 0;
 }
