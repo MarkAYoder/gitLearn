@@ -15,9 +15,7 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
-<<<<<<< HEAD
   printf("Hello, this is Sam Allen\n");
-=======
   printf("Hi this is Aaron Bamberger\n");
   printf("Hi this is Stephen Mayhew\n");
   printf("Hi this is Michael Lester\n"); 
