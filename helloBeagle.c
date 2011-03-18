@@ -17,6 +17,9 @@ int main(int argc, char **argv)
   printf("Hi this is Mark A. Yoder\n");
   printf("Hi this is Aaron Bamberger\n");
   printf("Hi this is Stephen Mayhew\n");
+  printf("Hi this is Michael Lester\n"); 
+  /* Stephen and I have the same number of letters in both
+     of our names, that satisfies my OCD :) */
   printf("Ty Strayer\n");
 
   return 0;
