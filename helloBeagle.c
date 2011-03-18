@@ -15,6 +15,9 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+<<<<<<< HEAD
+  printf("Hello, this is Sam Allen\n");
+=======
   printf("Hi this is Aaron Bamberger\n");
   printf("Hi this is Stephen Mayhew\n");
   printf("Hi this is Michael Lester\n"); 
@@ -22,6 +25,7 @@ int main(int argc, char **argv)
      of our names, that satisfies my OCD :) */
   printf("Hi this is Lei Liu\n"); 
   printf("Ty Strayer\n");
+>>>>>>> c698c075f4eb1a35de4e8f2f7563737a51d1b3c1
 
   return 0;
 }
