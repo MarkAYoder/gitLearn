@@ -23,7 +23,7 @@ int main(int argc, char **argv)
      of our names, that satisfies my OCD :) */
   printf("Hi this is Lei Liu\n"); 
   printf("Ty Strayer\n");
->>>>>>> c698c075f4eb1a35de4e8f2f7563737a51d1b3c1
+  printf("Hi this is Brian Hulette\n"); 
 
   return 0;
 }
