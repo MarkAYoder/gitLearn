@@ -20,6 +20,7 @@ int main(int argc, char **argv)
   printf("Jack Ma :-D\n");
   printf("Guanqun Wang (^_^)V \n");
   printf("Ziyi Zhang\n");
+  printf("Mona, Hello Galaxy\n");
 
   return 0;
 }
