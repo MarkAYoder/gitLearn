@@ -21,8 +21,9 @@ int main(int argc, char **argv)
   printf("Guanqun Wang (^_^)V \n");
   printf("Ziyi Zhang\n");
   printf("Mona, Hello Galaxy\n");
+  printf("MIB is back\n");
 
-  printf("Just playing around again.\n");
+  printf("Just playing around again, too.\n");
 
   return 0;
 }
