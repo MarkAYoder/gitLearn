@@ -23,7 +23,7 @@ int main(int argc, char **argv)
   printf("Mona, Hello Galaxy\n");
   printf("MIB is back\n");
 
-  printf("Just playing around\n");
+  printf("Just playing around, too\n");
 
   return 0;
 }
