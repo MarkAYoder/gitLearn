@@ -21,6 +21,7 @@ int main(int argc, char **argv)
   printf("Guanqun Wang (^_^)V \n");
   printf("Ziyi Zhang\n");
   printf("Mona, Hello Galaxy\n");
+  printf("MIB is back\n");
 
   return 0;
 }
