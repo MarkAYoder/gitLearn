@@ -22,7 +22,7 @@ int main(int argc, char **argv)
   printf("Ziyi Zhang\n");
   printf("Mona, Hello Galaxy\n");
 
-  printf("Just playing around\n");
+  printf("Just playing around again.\n");
 
   return 0;
 }
