@@ -22,5 +22,6 @@ int main(int argc, char **argv)
   printf("Put your name here.\n");
   printf("rathna and kavitha\n");
   printf("Ankit and Tarakesh \n");
+  printf("Nikhil \n");
   return 0;
 }
