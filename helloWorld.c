@@ -15,7 +15,9 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Yoder was here!");
 
+<<<<<<< HEAD:helloBeagle.c
   printf("Greg Harrison\n");
   printf("Jack Ma :-D\n");
   printf("Guanqun Wang (^_^)V \n");
@@ -23,8 +25,9 @@ int main(int argc, char **argv)
   printf("Mona, Hello Galaxy\n");
   printf("MIB is back\n");
 printf("Venkatesh G M");
+=======
+  printf("Put your name here.\n");
+>>>>>>> ea4ade09e6c0290d1b521d590b97adbe7ac4a84f:helloWorld.c
 
-  printf("Just playing around again, too.\n");
-  printf("Yifei in D115--modified");
   return 0;
 }
