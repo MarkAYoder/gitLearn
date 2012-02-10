@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int bss_var;        /* Uninitialized global variable */
 int data_var = 1;   /* Initialized global variable */
 int main(int argc, char **argv)
