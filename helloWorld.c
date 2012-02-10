@@ -15,9 +15,13 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Yoder was here!");
 
-  	printf("*************\n");
   printf("Put your name here.\n");
   printf("praveen------\n");
-  return 0;
+  printf("Venkatesh G M");
+  printf("Put your name here.\n");
+  printf("rathna and kavitha\n");
+  printf("latha\n");
+
 }
