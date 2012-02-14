@@ -16,6 +16,7 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Stephen Shinn checking-in from the Beagle\n");
 
  return 0;
 }
