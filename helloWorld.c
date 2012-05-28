@@ -16,14 +16,7 @@ int main(int argc, char **argv)
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
 
-  printf("Greg Harrison\n");
-  printf("Jack Ma :-D\n");
-  printf("Guanqun Wang (^_^)V \n");
-  printf("Ziyi Zhang\n");
-  printf("Mona, Hello Galaxy\n");
-  printf("MIB is back\n");
+  printf("Put your name here.\n");
 
-  printf("Just playing around again, too.\n");
-  printf("Yifei in D115--modified");
   return 0;
 }
