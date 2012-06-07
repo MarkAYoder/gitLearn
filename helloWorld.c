@@ -18,7 +18,7 @@ int main(int argc, char **argv)
   printf("Yoder was here!");
   printf("What happens if I ad this?\n");
 
-printf("Venkatesh G M");
+  printf("Venkatesh G M");
   printf("Put your name here.\n");
   printf("rathna and kavitha\n");
   printf("Ankit \n");
