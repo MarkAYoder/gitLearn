@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int bss_var;        /* Uninitialized global variable */
 int data_var = 1;   /* Initialized global variable */
 int main(int argc, char **argv)
@@ -19,6 +20,6 @@ int main(int argc, char **argv)
   printf("Venkatesh G M");
   printf("Put your name here.\n");
   printf("rathna and kavitha\n");
-  printf("Ankit \n");
+  printf("Ankit and Tarakesh \n");
   return 0;
 }
