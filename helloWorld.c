@@ -15,6 +15,7 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
+  printf("Live Deo\n");
 
   printf("Put your name here.\n");
 
