@@ -1,4 +1,4 @@
-#include <stdio.h>
+At the heart of GitHub is an open source version control system (VCS) called Git*. Created by the same dudes that created Linux, Git is responsible for everything GitHub related that happens locally on your computer.#include <stdio.h>
 
 int bss_var;        /* Uninitialized global variable */
 int data_var = 1;   /* Initialized global variable */
@@ -20,6 +20,7 @@ int main(int argc, char **argv)
   printf("Hello from Josh Dugan\n");
   printf("Hello from Tom Atnip\n");
   printf("Hello from Kevin Geisler\n");
+  printf("Hello from Andrew Miller\n");
 
  return 0;
 }
