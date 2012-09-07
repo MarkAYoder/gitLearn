@@ -18,10 +18,12 @@ int main(int argc, char **argv)
   printf("Hi this is Mark A. Yoder\n");
   printf("Stephen Shinn checking-in from the Beagle\n");
   printf("Hello from Josh Dugan\n");
+  printf("Hi all, from Ross Hansen\n");
   printf("Hello from Tom Atnip\n");
   printf("Hello from Kevin Geisler\n");
   printf("Hello from Andrew Miller\n");
   printf("Hello from Matthew Moravec\n");
 
+>>>>>>> 423e67c394c259490a817652ea13746bb383ae69
  return 0;
 }
