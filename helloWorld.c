@@ -24,6 +24,6 @@ int main(int argc, char **argv)
   printf("Hello from Andrew Miller\n");
   printf("Hello from Matthew Moravec\n");
 
->>>>>>> 423e67c394c259490a817652ea13746bb383ae69
+
  return 0;
 }
