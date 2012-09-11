@@ -20,6 +20,7 @@ int main(int argc, char **argv)
   printf("Hello from Josh Dugan\n");
   printf("Hi all, from Ross Hansen\n");
   printf("Hello from Tom Atnip\n");
+  printf("Hi this is Greg Larmore\n");
   printf("Hello from Kevin Geisler\n");
   printf("Hello from Andrew Miller\n");
   printf("Hello from Matthew Moravec\n");
