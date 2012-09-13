@@ -29,6 +29,7 @@ int main(int argc, char **argv)
   printf("Hello from Ruffin White\n");
   printf("Hello from Peter Ngo\n");
   printf("Hello from Sean Richardson\n");
+  printf("Hello from Elias White\n");
 
  return 0;
 }
