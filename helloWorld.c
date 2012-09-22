@@ -30,7 +30,7 @@ int main(int argc, char **argv)
   printf("Hello from Peter Ngo\n");
   printf("Hello from Sean Richardson\n");
   printf("Hello from Elias White\n");
-  printf("Hello from Xiyu Cheng\n");
+  printf("Hello from Xinyu Cheng\n");
   printf("Helloooo from Yue Zhang\n");
   printf("Hello from John Lobdell\n");
   printf("Hello from Jesse Brannon\n");
