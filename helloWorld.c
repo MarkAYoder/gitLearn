@@ -16,28 +16,6 @@ int main(int argc, char **argv)
 
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
-  printf("Stephen Shinn checking-in from the Beagle\n");
-  printf("Hello from Josh Dugan\n");
-  printf("Hi all, from Ross Hansen\n");
-  printf("Hello from Tom Atnip\n");
-  printf("Hi this is Greg Larmore\n");
-  printf("Hello from Kevin Geisler\n");
-  printf("Hello from Andrew Miller\n");
-  printf("Hello from Matthew Moravec\n");
-  printf("Hello from James Popenhagen\n");
-  printf("Hello from Michael Junge\n");
-  printf("Hello from Ruffin White\n");
-  printf("Hello from Peter Ngo\n");
-  printf("Hello from Sean Richardson\n");
-  printf("Hello from Elias White\n");
-  printf("Hello from Xinyu Cheng\n");
-  printf("Helloooo from Yue Zhang\n");
-  printf("Hello from John Lobdell\n");
-  printf("Hello from Jesse Brannon\n");
-  printf("Hello from Xia Li\n");
-  printf("Junge checking in with XM\n");
-  printf("Hello from Bryan Correll\n");
-  printf("Hello from Christopher A Good\n");
-  printf("Hello from Alexander Drane\n");
+  // Add your name here.  Be sure it still compiles.
  return 0;
 }
