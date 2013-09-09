@@ -30,5 +30,6 @@ int main(int argc, char **argv)
   // added by FreeTymeKiyan 2013-09-09 begin
   printf("Hi this is Yang Liu!\n");
   // added by FreeTymeKiyan 2013-09-09 end
+  printf("Greetings from Ian Kowalski\n");
   return 0;
 }
