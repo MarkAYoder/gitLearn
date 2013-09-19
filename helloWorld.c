@@ -24,6 +24,7 @@ int main(int argc, char **argv)
   printf("Hit this is Robert Fendricks\n");
   printf("Hey, this is Mike McDonald!!!\n");
   printf("Hello, this is Alex Alvarez\n");
+  printf("This is Chris Andrews\n");
   printf("woot woot, this is Chris Hopwood!\n");
   printf("Hey, this is David Cooper on beaglebone\n");
   printf("hello, this is yuxuan zeng\n");
