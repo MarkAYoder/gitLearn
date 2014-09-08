@@ -17,6 +17,10 @@ int main(int argc, char **argv)
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
   // Add your name here.  Be sure it still compiles.
+<<<<<<< HEAD
+  printf("My name is Zhihao Xue\n");
+ 
+=======
   printf("This is Eric Taylor\n"); 
   printf("Me again\n");
   printf("Hi this is Kyle Daruwalla.\n");
@@ -31,6 +35,7 @@ int main(int argc, char **argv)
 =======
 
 >>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
+>>>>>>> 074b662c04d05675068fa29c00fa2a76da8fd721
   return 0;
 >>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
 }
