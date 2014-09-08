@@ -23,28 +23,12 @@ int main(int argc, char **argv)
   printf("This is Eric Taylor\n"); 
   printf("Me again\n");
   printf("Hi this is Kyle Daruwalla.\n");
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   printf("Wazuppp\n");
   printf("Hi this is Caio Silva. \n");	 
- return 0;
-=======
   printf("Hi, This is Zizhao Wang. \n");
->>>>>>> 074b662c04d05675068fa29c00fa2a76da8fd721
-=======
-
->>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
->>>>>>> 074b662c04d05675068fa29c00fa2a76da8fd721
-=======
   printf("Hi this is Mark Morrison.\n");
   printf("Hi this is Dave Fisher\n");
   printf("Hi, This is Zizhao Wang. \n");
   printf("Hi I'm Peter\n");
-<<<<<<< HEAD
-=======
->>>>>>> 898a734a65c15d08f392b7597317e34e8f2a0405
->>>>>>> 946d173011b91b12c5e109cec1d3aa72f5ee2685
   return 0;
->>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
 }
