@@ -34,10 +34,8 @@ int main(int argc, char **argv)
   printf("Hello, I'm Randy Turner. \n");
   printf("Hi, this is Leihao\n");
   printf("Hi, this is Asa");
-<<<<<<< HEAD
   printf("Hi, this is Alex\n");
-=======
-printf("Hi, this is Jiayu");
->>>>>>> 5f190ccfa0c9304da9d4a772939430da7f68b6aa
+printf("Hi, this is Jiayu\n");
+printf("Hi, this is Ying Ying Zhou. \n");
   return 0;
 }
