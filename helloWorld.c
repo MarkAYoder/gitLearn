@@ -21,11 +21,16 @@ int main(int argc, char **argv)
   printf("Me again\n");
   printf("Hi this is Kyle Daruwalla.\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
   printf("Wazuppp\n");
   printf("Hi this is Caio Silva. \n");	 
  return 0;
 =======
+  printf("Hi, This is Zizhao Wang. \n");
+>>>>>>> 074b662c04d05675068fa29c00fa2a76da8fd721
+=======
 
+>>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
   return 0;
 >>>>>>> 206ea07c463657a2fe7943bb014a051bdd581b51
 }
