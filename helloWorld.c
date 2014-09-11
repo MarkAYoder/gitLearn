@@ -35,7 +35,8 @@ int main(int argc, char **argv)
   printf("Hi, this is Leihao\n");
   printf("Hi, this is Asa");
   printf("Hi, this is Alex\n");
-printf("Hi, this is Jiayu\n");
-printf("Hi, this is Ying Ying Zhou. \n");
+  printf("Hi, this is Jiayu\n");
+  printf("Hi, this is Ying Ying Zhou. \n");
+  printf("Hi, this is Yashi \n");
   return 0;
 }
