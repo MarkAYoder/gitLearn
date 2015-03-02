@@ -22,6 +22,7 @@ int main(int argc, char **argv)
   printf("Hello I'm Ahmed\n");
   printf("Hey, this is Tushar Jain !\n");
   printf("Hello, I am Sanjeev Khare!\n");
+  printf("Hi this is Mama Sky\n");
   // Add your name here.  Be sure it still compiles.
 
   return 0;
