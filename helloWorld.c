@@ -15,28 +15,8 @@ int main(int argc, char **argv)
   printf("This address (%p) is in our data section\n", &data_var);
 
   printf("\n");
-  printf("Hi this is Mark A. Yoder\n");
-  printf("hi, i'm weijian \n"); 
+  printf("Hi this is Mark A. Yoder\n"); 
   // Add your name here.  Be sure it still compiles.
-  printf("Hey from Dmitry Votintsev\n"); 
-  printf("Hey from Matthew Olson\n"); 
-  printf("My name is Zhihao Xue\n");
-  printf("This is Eric Taylor\n"); 
-  printf("Me again\n");
-  printf("Hi this is Kyle Daruwalla.\n");
-  printf("Wazuppp\n");
-  printf("Hi this is Caio Silva. \n");	 
-  printf("Hi, This is Zizhao Wang. \n");
-  printf("Hi this is Mark Morrison.\n");
-  printf("Hi this is Dave Fisher\n");
-  printf("Hi, This is Zizhao Wang. \n");
-  printf("Hi I'm Peter\n");
-  printf("Hello, I'm Randy Turner. \n");
-  printf("Hi, this is Leihao\n");
-  printf("Hi, this is Asa");
-  printf("Hi, this is Alex\n");
-  printf("Hi, this is Jiayu\n");
-  printf("Hi, this is Ying Ying Zhou. \n");
-  printf("Hi, this is Yashi \n");
+
   return 0;
 }
