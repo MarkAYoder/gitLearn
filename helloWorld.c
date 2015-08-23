@@ -17,12 +17,10 @@ int main(int argc, char **argv)
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
   printf("Hi I am Anand K Parmar\n");
-  printf("Hi! I am Gopal Krishan Aggarwal\n"); 
-<<<<<<< HEAD
+  printf("Hi! I am Gopal Krishan Aggarwal\n");
   printf("Hey, I'm Kansul Mahrifa\n");
-=======
   printf("Hello I'm Ahmed\n");
->>>>>>> d90b51b1d1fed6ec6aad60066d57521eca74373d
+  printf("Hey, this is Tushar Jain !\n");
   // Add your name here.  Be sure it still compiles.
 
   return 0;
