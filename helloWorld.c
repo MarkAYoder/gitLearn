@@ -22,5 +22,7 @@ int main(int argc, char **argv)
 
   printf("Hi this is Luke J. Kuza\n");
 
+  printf("Hi this is George F. Rung\n");
+
   return 0;
 }
