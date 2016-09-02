@@ -24,5 +24,7 @@ int main(int argc, char **argv)
 
   printf("Hi this is George F. Rung\n");
 
+  printf("Hi this is Boyu Zhang\n");
+
   return 0;
 }
