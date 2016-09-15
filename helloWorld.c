@@ -32,6 +32,6 @@ int main(int argc, char **argv)
   printf("Hello this is Tim Smith\n");
   printf("Hi this is Joseph Militello\n");
   printf("Hi this is Hazen Hamather\n");
-
+  printf("Hi this is Hazen Hamather\n");
   return 0;
 }
