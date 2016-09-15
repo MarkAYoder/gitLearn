@@ -29,9 +29,7 @@ int main(int argc, char **argv)
   printf("This is david. caggiano. Lord of atlantis\n");
   printf("This is David Mehl\n");
   printf("Hi this is Boyu Zhang\n");
-
   printf("Hi this is Jake Bellis\n");
-
   printf("Hello this is Tim Smith\n");
   printf("Hi this is Joseph Militello\n");
   printf("Hi this is Hazen Hamather\n");
