@@ -20,6 +20,7 @@ int main(int argc, char **argv)
   // Add your name below here.  Be sure it still compiles.
   printf("Hello I am Andrew Mueller\n");
   printf("Hello I am Adam Wiesler\n");
+  printf("Hi this is Daniel Neelappa\n");
 
   return 0;
 }
