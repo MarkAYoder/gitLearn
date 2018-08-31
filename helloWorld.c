@@ -17,5 +17,7 @@ int main(int argc, char **argv)
   printf("\n");
   printf("Hi this is Mark A. Yoder\n");
   // Add your name below here.  Be sure it still compiles.
+  printf("Wesley Van Pelt\n");
+
   return 0;
 }
