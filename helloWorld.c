@@ -20,6 +20,7 @@ int main(int argc, char **argv)
   printf("Hi this is Ryan Oberlitner\n");
   printf("Hi this is Leela Pakanati\n");
   printf("Hi this is Isaac Lau\n");
+  printf("Hi this is Brock Grinstead\n");
 
   return 0;
 }
