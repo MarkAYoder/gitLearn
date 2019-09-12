@@ -23,6 +23,7 @@ int main(int argc, char **argv)
   printf("Hi this is Brock Grinstead\n");
   printf("Hi this is Eric Fast\n");
   printf("Hi this is Andy Barbour\n")
-  printf("Hi this is Seun Ladipo\n);
+  printf("Hi this is Seun Ladipo\n");
+  printf("Hi this is Mark Procter\n");
   return 0;
 }
