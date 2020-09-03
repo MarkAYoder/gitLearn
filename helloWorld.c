@@ -14,9 +14,7 @@ int main(int argc, char **argv)
   /* data section contains initializated data */
   printf("This address (%p) is in our data section\n", &data_var);
 
-  printf("\n");
-  printf("Hi this is Mark A. Yoder\n");
-  // Add your name below here.  Be sure it still compiles.
+  printf("\nAdd your name to the Python version.\n");
 
   return 0;
 }
