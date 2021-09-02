@@ -12,26 +12,3 @@ print("\r")
 
 print("Hi, this is Mark A. Yoder")
 # Add your name below here.  Be sure it still runs.
-print("Hi, this is Emily Dougherty")
-
-print("Hi, this is Ryan Taylor")
-
-print("Hi, this is Christina Rogers")
-
-print("Hi, this is Luke Clinton")
-
-print("Hi, this is Craig McGee Jr.")
-
-print("Hi, this is Joshua Key")
-
-print("HI, this is Haoxuan SUn")
-
-print("Hi, this is Heda Wang")
-
-print("Hi, this is James Werne")
-
-print("Hi, this is Zach Hyde")
-
-print("Hi, this is Aman Bajaj")
-
-print("Hi, this is Eric Kirby")
