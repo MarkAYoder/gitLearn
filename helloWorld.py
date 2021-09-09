@@ -29,4 +29,3 @@ print("Hi, this is Tiarnan Rice")
 print("Hi, this is Eliza Romeu")
 print("Hi, this is Jonah Egertson")
 print("Hi, this is Andrew Weger")
->>>>>>> a8a8a79a439bc9f7b509854135342d89aaae68a2
