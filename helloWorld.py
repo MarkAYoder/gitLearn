@@ -13,7 +13,7 @@ print("\r")
 print("Hi, this is Mark A. Yoder")
 
 # Add your name below here.  Be sure it still runs.
-
+print("Hi, this is Wojciech Zacherek")
 print("Hi, this is Joshua Giambattista")
 print("Hi, This is Geoffrey Tomlinson")
 print("Hi, this is Carson Meyer")
@@ -24,4 +24,11 @@ print("Hello There, this be Skyler Cleland")
 print("Hi, this is Matt Hummel")
 print("Hi, this is Tristen Foisy")
 print("Hi, this is Melina Ferner")
+<<<<<<< HEAD
 print("Hi, this is Sam Hedrick")
+=======
+print("Hi, this is Tiarnan Rice")
+print("Hi, this is Eliza Romeu")
+print("Hi, this is Jonah Egertson")
+print("Hi, this is Andrew Weger")
+>>>>>>> a8a8a79a439bc9f7b509854135342d89aaae68a2
