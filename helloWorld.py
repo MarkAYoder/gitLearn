@@ -24,9 +24,7 @@ print("Hello There, this be Skyler Cleland")
 print("Hi, this is Matt Hummel")
 print("Hi, this is Tristen Foisy")
 print("Hi, this is Melina Ferner")
-<<<<<<< HEAD
 print("Hi, this is Sam Hedrick")
-=======
 print("Hi, this is Tiarnan Rice")
 print("Hi, this is Eliza Romeu")
 print("Hi, this is Jonah Egertson")
