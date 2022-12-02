@@ -13,7 +13,7 @@ print("\r")
 print("Hi, this is Mark A. Yoder")
 print("Hi, this is Harris Wu")
 # Add your name below here.  Be sure it still runs.
-
+print("Hi, this is Harris Wu")
 
 print("\nHey --Abel\n")
 print("Howdy, my name is Eddie Mannan :)")
