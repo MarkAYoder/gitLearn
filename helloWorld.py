@@ -11,6 +11,12 @@ print("Hello, World!")
 print("\r")
 
 print("Hi, this is Mark A. Yoder")
-
+print("Hi, this is Harris Wu")
 # Add your name below here.  Be sure it still runs.
-print("David Purdy")
+print("Hi, this is Harris Wu")
+
+print("\nHey --Abel\n")
+print("Howdy, my name is Eddie Mannan :)")
+print("Hello, this is Brendan Perez")
+print("Hello, this is Jason Su")
+print("Hello, it's David Purdy ᓚᘏᗢ")
