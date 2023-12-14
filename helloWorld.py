@@ -9,4 +9,8 @@ print("Hi, this is Logan Manthey")
 
 print("Hi, this is Larissa Krakora")
 print("Hi, this is Rhian Seneviratne")
+<<<<<<< HEAD
 print("Hi, this is Jailen Hobbs")
+=======
+print("Hi, this is jintian Zhang")
+>>>>>>> FETCH_HEAD
